@@ -1,0 +1,7 @@
+@use 'variaveis';
+*{
+    font-family: variaveis.$fontFamily;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
